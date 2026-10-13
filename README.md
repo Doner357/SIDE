@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/icon/SIDE.svg" width="180" alt="SIDE">
+  <img src="assets/icon/png/SIDE-512x512.png" width="180" alt="SIDE">
 
 # SIDE
 
